@@ -1,6 +1,6 @@
 {
-  "name": "utilise.not",
-  "version": "0.0.2",
+  "name": "utilise.nullify",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "istanbul test ./node_modules/mocha/bin/_mocha --report html -- -R spec",
